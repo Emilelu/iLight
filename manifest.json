@@ -1,0 +1,18 @@
+{
+    "name": "iLight",
+    "version": "0.1.6",
+    "manifest_version": 2,
+    "icons": {
+      "128": "icon.png"
+    },
+    "description": "替换您浏览的网页字体为 微软雅黑 Light，增强视觉效果。",
+    "background": {
+        "scripts": ["css/iLight.css"]
+    },
+    "permissions": [
+        "webRequest", "webRequestBlocking", "<all_urls>"
+    ],
+	  "author": "https://emilelu.com",
+      "homepage_url": "https://emilelu.com/about-blog/370.html"
+
+}
